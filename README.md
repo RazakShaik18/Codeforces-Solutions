@@ -6,21 +6,35 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [games](#games) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 
 ### games
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 
 ---
 
