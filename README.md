@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -30,6 +30,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
 | 2261D1 | [Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2261/problem/D1) | 1300 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2261/D1%20-%20Come%20Be%20My%20Friend%2C%20Don't%20Be%20So%20Scared%20(Easy%20Version)/solution.cpp) |
 
 ### games
@@ -42,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
 | 2261D1 | [Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2261/problem/D1) | 1300 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2261/D1%20-%20Come%20Be%20My%20Friend%2C%20Don't%20Be%20So%20Scared%20(Easy%20Version)/solution.cpp) |
 
 ### two pointers
