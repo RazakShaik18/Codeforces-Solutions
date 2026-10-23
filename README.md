@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 7 |
 
 ---
 
@@ -16,7 +16,8 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
-- [math](#math) (2)
+- [math](#math) (3)
+- [number theory](#number-theory) (1)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -52,7 +53,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2261D1 | [Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2261/problem/D1) | 1300 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2261/D1%20-%20Come%20Be%20My%20Friend%2C%20Don't%20Be%20So%20Scared%20(Easy%20Version)/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 
 ### two pointers
 
