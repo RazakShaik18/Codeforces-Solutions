@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
+- [greedy](#greedy) (1)
 - [math](#math) (2)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -25,6 +26,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### constructive algorithms
 
@@ -39,6 +41,12 @@
 |---|---------|------------|----------|
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
@@ -51,6 +59,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/RazakShaik18/Codeforces-Solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ---
 
